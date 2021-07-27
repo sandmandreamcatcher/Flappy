@@ -6,6 +6,7 @@ public class Bird : MonoBehaviour
 {
     private BirdMover _mover;
     private int _score;
+    public bool IsDied { get; private set; } = false;
 
     public event UnityAction GameOver;
     public event UnityAction<int> ScoreChanged;
@@ -25,11 +26,13 @@ public class Bird : MonoBehaviour
     {
         _score = 0;
         _mover.ResetBird();
+        IsDied = false;
         ScoreChanged?.Invoke(_score);
     }
 
     public void Die()
     {
         GameOver?.Invoke();
+        IsDied = true;
     }
 }

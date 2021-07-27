@@ -19,7 +19,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Bird/BirdMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BirdTracker.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BirdCollisionHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pipe/ScoreZone.cs" />
@@ -31,6 +30,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Score.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameoverScreen.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bird/Bird.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bird/BirdMover.cs" />
       </list>
     </option>
   </component>
@@ -79,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627329614297</updated>
-      <workItem from="1627329616281" duration="10337000" />
+      <workItem from="1627329616281" duration="11087000" />
     </task>
     <servers />
   </component>
