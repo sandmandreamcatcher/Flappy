@@ -8,15 +8,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Screen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Score.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pipe/ScoreZone.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BirdCollisionHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PipeGenerator.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/BirdTracker.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bird/BirdMover.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Bird/Bird.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BirdTracker.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BirdCollisionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pipe/ScoreZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PipeGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Screen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/StartScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameoverScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bird/Bird.cs" />
       </list>
     </option>
   </component>
@@ -65,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627329614297</updated>
-      <workItem from="1627329616281" duration="3373000" />
+      <workItem from="1627329616281" duration="10337000" />
     </task>
     <servers />
   </component>
@@ -76,5 +90,11 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1627377450716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="236" key="RiderGenerateDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1627377450716" />
   </component>
 </project>
